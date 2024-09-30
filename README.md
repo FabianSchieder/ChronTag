@@ -13,3 +13,10 @@ In diesem Zeitspempel System, kann man jeden beliebigen Zeistempel in eingeben, 
 | `M`        | Minute           |
 | `s`        | Sekunde          |
 
+
+
+## Ideen
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
