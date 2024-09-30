@@ -4,7 +4,7 @@
 
 In diesem Zeitspempel System, kann man jeden beliebigen Zeistempel in eingeben, und verwalten.
 
-Default Configuration: `F` `= Folge`
+### Default Configuration
 
 |   Kürzel   |    Bezeichnung   |
 |------------|------------------|
