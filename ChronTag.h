@@ -9,6 +9,11 @@
 
 class ChronTag
 {
+    private:
+
+
+    public:
+        ChronTag();
 
 };
 
