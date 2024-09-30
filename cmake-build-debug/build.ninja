@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_ChronTag: phony || .
 
 build CMakeFiles/ChronTag.dir/ChronTag.cpp.obj: CXX_COMPILER__ChronTag_unscanned_Debug C$:/Users/chris/Projects/Software/ChronTag/ChronTag.cpp || cmake_object_order_depends_target_ChronTag
   DEP_FILE = CMakeFiles\ChronTag.dir\ChronTag.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/chris/Projects/Software/ChronTag/.
   OBJECT_DIR = CMakeFiles\ChronTag.dir
   OBJECT_FILE_DIR = CMakeFiles\ChronTag.dir
